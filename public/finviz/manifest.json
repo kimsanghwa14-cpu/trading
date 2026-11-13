@@ -2,259 +2,259 @@
   "tickers": {
     "SPY": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:21.771Z",
+      "capturedAt": "2026-11-13T02:30:49.709Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "QQQ": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:22.645Z",
+      "capturedAt": "2026-11-13T02:30:50.445Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "IWM": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:23.449Z",
+      "capturedAt": "2026-11-13T02:30:51.140Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "EWY": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:24.266Z",
+      "capturedAt": "2026-11-13T02:30:51.858Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "FXI": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:25.067Z",
+      "capturedAt": "2026-11-13T02:30:52.562Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "SPMO": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:25.868Z",
+      "capturedAt": "2026-11-13T02:30:53.317Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "VUG": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:26.668Z",
+      "capturedAt": "2026-11-13T02:30:54.055Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "VTV": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:27.481Z",
+      "capturedAt": "2026-11-13T02:30:54.812Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "USDU": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:28.292Z",
+      "capturedAt": "2026-11-13T02:30:55.519Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "XLE": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:29.100Z",
+      "capturedAt": "2026-11-13T02:30:56.239Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "GDX": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:29.889Z",
+      "capturedAt": "2026-11-13T02:30:57.032Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "SOXX": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:30.744Z",
+      "capturedAt": "2026-11-13T02:30:57.832Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "XLK": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:31.605Z",
+      "capturedAt": "2026-11-13T02:30:58.737Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "XLI": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:32.387Z",
+      "capturedAt": "2026-11-13T02:30:59.676Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "ITA": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:33.204Z",
+      "capturedAt": "2026-11-13T02:31:00.429Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "XBI": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:33.986Z",
+      "capturedAt": "2026-11-13T02:31:01.159Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "LIT": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:34.785Z",
+      "capturedAt": "2026-11-13T02:31:01.897Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "URA": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:35.605Z",
+      "capturedAt": "2026-11-13T02:31:02.557Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "NVDA": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:36.395Z",
+      "capturedAt": "2026-11-13T02:31:03.242Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "AVGO": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:37.206Z",
+      "capturedAt": "2026-11-13T02:31:03.906Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "AMD": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:38.003Z",
+      "capturedAt": "2026-11-13T02:31:04.603Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "TSM": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:38.804Z",
+      "capturedAt": "2026-11-13T02:31:05.289Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "MU": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:39.603Z",
+      "capturedAt": "2026-11-13T02:31:05.982Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "ASML": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:40.388Z",
+      "capturedAt": "2026-11-13T02:31:06.658Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "AMAT": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:41.179Z",
+      "capturedAt": "2026-11-13T02:31:07.323Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "LRCX": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:42.006Z",
+      "capturedAt": "2026-11-13T02:31:07.981Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "KLAC": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:42.811Z",
+      "capturedAt": "2026-11-13T02:31:08.641Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "VRT": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:43.612Z",
+      "capturedAt": "2026-11-13T02:31:09.330Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "ANET": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:44.436Z",
+      "capturedAt": "2026-11-13T02:31:09.993Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "ETN": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:45.220Z",
+      "capturedAt": "2026-11-13T02:31:10.663Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "GEV": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:46.009Z",
+      "capturedAt": "2026-11-13T02:31:11.350Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "PWR": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:46.835Z",
+      "capturedAt": "2026-11-13T02:31:12.023Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "CEG": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:47.620Z",
+      "capturedAt": "2026-11-13T02:31:12.692Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "CCJ": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:48.408Z",
+      "capturedAt": "2026-11-13T02:31:13.367Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "OKLO": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:49.215Z",
+      "capturedAt": "2026-11-13T02:31:14.034Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "LLY": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:50.000Z",
+      "capturedAt": "2026-11-13T02:31:14.697Z",
       "error": null,
       "width": 466,
       "height": 219
     },
     "NVO": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:50.788Z",
+      "capturedAt": "2026-11-13T02:31:15.361Z",
       "error": null,
       "width": 466,
       "height": 219
@@ -263,9 +263,9 @@
   "sheets": {
     "core": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:51.368Z",
-      "screenshot": "/finviz/market_scan_2026-11-11_core.png",
-      "date": "2026-11-11",
+      "capturedAt": "2026-11-13T02:31:15.920Z",
+      "screenshot": "/finviz/market_scan_2026-11-12_core.png",
+      "date": "2026-11-12",
       "tickers": [
         "SPY",
         "QQQ",
@@ -293,9 +293,9 @@
     },
     "full": {
       "status": "ok",
-      "capturedAt": "2026-11-12T02:48:51.484Z",
-      "screenshot": "/finviz/market_scan_2026-11-11_full.png",
-      "date": "2026-11-11",
+      "capturedAt": "2026-11-13T02:31:16.006Z",
+      "screenshot": "/finviz/market_scan_2026-11-12_full.png",
+      "date": "2026-11-12",
       "tickers": [
         "SPY",
         "QQQ",
@@ -338,7 +338,7 @@
       "error": null
     }
   },
-  "startedAt": "2026-11-12T02:48:20.901Z",
-  "lastUpdatedAt": "2026-11-12T02:48:50.788Z",
-  "completedAt": "2026-11-12T02:48:51.485Z"
+  "startedAt": "2026-11-13T02:30:49.057Z",
+  "lastUpdatedAt": "2026-11-13T02:31:15.361Z",
+  "completedAt": "2026-11-13T02:31:16.006Z"
 }
